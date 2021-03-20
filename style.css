@@ -39,6 +39,7 @@
    h1 {  font-weight: 300;
         font-size: 56px;
         color: #454141;
+        margin-left: 80px;
       }
 
    h2 {
@@ -46,6 +47,7 @@
           font-weight: 700;
           font-size: 36pt;
           color: #454141;
+          margin-left: 80px;
         }
 
     p { 
