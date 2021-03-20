@@ -42,18 +42,17 @@
         margin-left: 80px;
       }
 
-   h2 {
-        
-          font-weight: 700;
-          font-size: 36pt;
-          color: #454141;
-          margin-left: 80px;
+   h2 { font-weight: 700;
+        font-size: 36pt;
+        color: #454141;
+        margin-left: 80px;
         }
 
     p { 
         font-style: normal;
         font-weight: 300; 
         font-size: 24pt;
+        color: #454141;
         margin-left: 80px;
         letter-spacing: 2px;
      }
